@@ -42,6 +42,8 @@ htmlcov/
 .tox/
 .nox/
 .coverage
+
+api_keys.py
 .coverage.*
 .cache
 nosetests.xml
